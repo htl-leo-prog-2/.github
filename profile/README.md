@@ -7,3 +7,11 @@ Shared materials for programming C# grade 2 @ HTL-Leonding.
 | 2AHIF | Rainer Stropek | Robert Stöttinger| 
 | 2BHIF | Michal Karpowicz | Stefan Schraml | 
 | 2CHIF | Franz Auernig| Robert Stöttinger | 
+
+
+## 2022/23
+| Class | Main teacher | PRPR-teacher (C) | Repo |
+| --- | --- | --- | --- |
+| 2BHIF | Gerhard Gehrer | Robert Stöttinger| 
+| 2CHIF | Markus Haslinger| Robert Stöttinger | [proo_y2_haslm](https://github.com/htl-leo-prog-2/proo_y2_haslm)
+| 2DHIF | Alexander Kornfellner | Robert Stöttinger | 
