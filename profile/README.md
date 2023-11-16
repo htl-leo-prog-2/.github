@@ -5,9 +5,10 @@ Shared materials for programming C# grade 2 @ HTL-Leonding.
 ## 2023/24
 | Class | Main teacher | PRPR-teacher (C) | Repo |
 | --- | --- | --- | --- |
-| 2AHIF | Rainer Stropek | Robert Stöttinger| [2023-24-2nd](https://github.com/rstropek/2023-24-2nd)
+| 2AHIF | Rainer Stropek | Robert Stöttinger| [2023-24-2nd](https://github.com/rstropek/2023-24-2nd) <br> [YouTube Playlist C#1/2](https://www.youtube.com/playlist?list=PLhGL9p3BWHwsJN6kbQPOVZpEw2NXQXZQN)
 | 2BHIF | Michal Karpowicz | Stefan Schraml | 
 | 2CHIF | Franz Auernig| Robert Stöttinger | 
+| 2DHIF | David Klewein | Robert Stöttinger |
 
 
 ## 2022/23
