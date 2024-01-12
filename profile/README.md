@@ -3,8 +3,8 @@ Shared materials for programming C# grade 2 @ HTL-Leonding.
 
 ## Worksplit between POSE-PRPR (C) and POSE-OO (C#)
 
-- [Lehrplankommentierung POSE 10 WS](./LPV-POSE-10WS.pdf)
-- [Lehrplankommentierung POSE 10 SS](./LPV-POSE-10SS.pdf)
+- [Lehrplankommentierung POSE 10 WS](https://github.com/htl-leo-prog-2/.github/blob/main/profile/LPV-POSE-10WS.pdf)
+- [Lehrplankommentierung POSE 10 SS](https://github.com/htl-leo-prog-2/.github/blob/main/profile/LPV-POSE-10SS.pdf)
 
 ## 2023/24
 | Class | Main teacher | PRPR-teacher (C) | Repo |
