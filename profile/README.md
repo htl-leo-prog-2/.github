@@ -1,6 +1,10 @@
 ## Welcome to the team 🙌
 Shared materials for programming C# grade 2 @ HTL-Leonding.
-- [Abendschule](https://github.com/htl-leo-prog-2/prog_56_abend)
+
+## Worksplit between POSE-PRPR (C) and POSE-OO (C#)
+
+- [Lehrplankommentierung POSE 10 WS](./LPV-POSE-10WS.pdf)
+- [Lehrplankommentierung POSE 10 SS](./LPV-POSE-10SS.pdf)
 
 ## 2023/24
 | Class | Main teacher | PRPR-teacher (C) | Repo |
@@ -17,3 +21,5 @@ Shared materials for programming C# grade 2 @ HTL-Leonding.
 | 2BHIF | Gerhard Gehrer | Robert Stöttinger| 
 | 2CHIF | Markus Haslinger| Robert Stöttinger | [proo_y2_haslm](https://github.com/htl-leo-prog-2/proo_y2_haslm)
 | 2DHIF | Alexander Kornfellner | Robert Stöttinger | 
+
+- [Abendschule](https://github.com/htl-leo-sprog-2/prog_56_abend)
